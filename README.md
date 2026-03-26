@@ -6,7 +6,7 @@
 **Competition:** Agents Intensive - Capstone Project
 **Live Demo:** https://capstone-data-agent-nbfgvvbammvmmoz9q4ybig.streamlit.app/   
 **Youtube Demo:** https://youtu.be/mwGis1601sA?si=oSdME-hNyH8O9xS3  
-**GitHub:** https://github.com/fatimaW323/capstone-data-agent   
+**GitHub:** https://github.com/adithyabaiju85-dot/capstone-data-agent  
 
 --- 
 
